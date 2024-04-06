@@ -15,7 +15,7 @@ A crontab is used to call every 5 minutes the file **script.sh** which itself ca
 
 For the sake of clarity, this is a draft of what the scripts do. It must be read from left to right and from the top to the bottom, as scripts are called sequentially.<br>
 
-![Explanation](explanation.png)
+![Explanation](explanation.PNG)
 
 I purposely didn't include in this draft logs and intermediary text files, as it is not necessary to understand the global functioning.<br>
 
@@ -28,7 +28,7 @@ If you are on running on *Windows*, you will need to download a virtual machine 
 After downloading you're VM, you need to configure an Ubuntu virtual system. There is plenty documentation online to do so, and it is quite intuitive.<br>
 You won't need more than 10GB of memory and 4Gb of RAM to make this project work.<br>
 You will need to redirect the **port 80** of you VM to a port of your machine, I personnaly used 8008.<br>
-![example](redirection_port.png)
+![example](redirection_port.PNG)
 
 I you are already running on *Ubuntu*, then you shoudn't have any problem.<br>
 
