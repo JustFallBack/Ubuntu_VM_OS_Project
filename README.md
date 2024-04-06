@@ -90,7 +90,7 @@ sudo systemctl restart apache2
 ```
 On *windows*, you need to access *C:\Windows\System32\drivers\etc\hosts* with an editor (Notepad will do) as an administrator and add this line :<br>
 ```txt
-127.0.0.1 project.local<br>
+127.0.0.1 project.local
 ```
 
 You can now access the website using *http://project.local:8008*.<br>
