@@ -106,7 +106,7 @@ To configure it, add a line of instructions, here's an example :<br>
 ```txt
 */5 * * * * bash absolute_path/OS_Project/script.sh
 ```
-This will make the cron execute **script.sh** every 5 minutes. You need to replace **absolute_path** by you're absolute path to **OS_Project**.<br>
+This will make the cron execute **script.sh** every 5 minutes. You need to replace **absolute_path** by your absolute path to **OS_Project**.<br>
 
 **You will need to replace absolute path in each file to match yours.**<br>
 
