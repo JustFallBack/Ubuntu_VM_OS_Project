@@ -111,5 +111,3 @@ This will make the cron execute **script.sh** every 5 minutes. You need to repla
 **You will need to replace absolute path in each file to match yours.**<br>
 
 You can configure the crisis requirement by executing **crisis.sh** in **Crisis** folder.<br>
-
-If you encounter difficulties when using this project, feel free to conctac me.
