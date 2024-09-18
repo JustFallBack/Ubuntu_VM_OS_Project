@@ -1,8 +1,4 @@
-# README
-
-## This project is under the GNU General Public Licence v3.0.
-
-## Purpose
+# Virtual Machine with Ubuntu - Bachelor's degree project
 
 This project was done in the context of the "Operating System Administration" course at Université d'Avignon.<br>
 It's purpose was to familiarise with an Ubuntu virtual machine environment.<br>
